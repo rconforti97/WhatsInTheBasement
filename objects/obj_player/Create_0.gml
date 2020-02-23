@@ -1,3 +1,5 @@
 /// @description Create
 // You can write your code in this editor
-stamina = 1;
+
+// Really being implemented as stamina but using the built in features of health
+stamina = 100;
